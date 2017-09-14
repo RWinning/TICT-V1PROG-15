@@ -8,3 +8,5 @@ gemiddelde = (a + b) / 2
 print (gemiddelde)
 invetaris = ['papier', 'nietjes', 'pennen']
 print (invetaris)
+
+print('Python' < 'Programmeren')
